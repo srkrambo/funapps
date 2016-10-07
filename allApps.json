@@ -1,0 +1,30 @@
+[ {"AppName": "Fun +",
+    "AppDesc": "Enjoy the puzzle of addition!",
+    "AppIcon": "https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/1a/f3/1a/1af31a1d-3a3f-6163-c351-f779f2136885/pr_source.png/340x340bb-80.png"
+ },
+ 
+ {"AppName": "Fun -",
+    "AppDesc": "Enjoy the puzzle of subtraction!",
+    "AppIcon": "https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/49/3a/88/493a88c2-514c-6965-f72c-ec3f6c5f0943/pr_source.png/340x340bb-80.png"
+ },
+ 
+ {"AppName": "Fun /",
+    "AppDesc": "Enjoy the puzzle of division!",
+    "AppIcon": "https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/0c/de/f7/0cdef7c7-a606-7342-a5f6-45202316e93e/pr_source.png/340x340bb-80.png"
+ },
+ 
+ {"AppName": "Fun *",
+    "AppDesc": "Enjoy the puzzle of multiplication!",
+    "AppIcon": "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/e7/6e/5b/e76e5b55-9e67-4ce7-e752-0d6b7254dd78/pr_source.png/340x340bb-80.png"
+ },
+ 
+ {"AppName": "Fun %",
+    "AppDesc": "Enjoy the puzzle of modulus!",
+    "AppIcon": "https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/b9/3c/0b/b93c0b45-aad8-dfe1-542e-cb5aa2dc96f1/pr_source.png/340x340bb-80.png"
+ }
+ 
+ 
+ 
+
+
+]
